@@ -1,0 +1,2 @@
+# SlideOut-Plugin
+SlideOut Plugin
